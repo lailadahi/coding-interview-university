@@ -241,6 +241,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [x] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
 
+
 ## Pick One Language for the Interview
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
